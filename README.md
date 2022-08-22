@@ -16,8 +16,3 @@
 </div>
 <br/>
 Jovem estudante dedicando o maximo para aprender e evoluir nesse mundo maravilhoso que é a programação. 
-<br/>
-<h4>Contato</h4>
-
-- [Linkedin](https://www.linkedin.com/in/daniel-de-pontes-jardim-a4233b207/)
-- [Email - danieldepontes2002@gmail.com](danieldepontes2002@gmail.com)
